@@ -36,7 +36,7 @@ Here are some of the interactive applications I have developed to practice and h
 
 ![Ayaz's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ayaz300&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaz300&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayaz300&layout=compact&theme=tokyonight)
 
 ---
 
