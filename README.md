@@ -42,5 +42,5 @@ Here are some of the interactive applications I have developed to practice and h
 
 ## 🤝 Connect with Me
 
-* **Twitter (X):** https://x.com/@_ayaz300_/
+* **Twitter (X):** https://x.com/ayaz300_/
 * **Instagram:** https://www.instagram.com/_ayaz300_/
