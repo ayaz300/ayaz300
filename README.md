@@ -30,16 +30,6 @@ Here are some of the interactive applications I have developed to practice and h
 | **Calculator** | A responsive web calculator with a clean UI built to practice basic logic and arithmetic handling. | HTML, CSS, JavaScript |
 | **Color Changer** | A simple DOM project to change backgrounds dynamically or generate random colors. | HTML, CSS, JavaScript |
 
----
-
-## 📈 GitHub Stats
-
-![Ayaz's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ayaz300&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayaz300&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Connect with Me
 
 * **Twitter (X):** https://x.com/ayaz300_/
