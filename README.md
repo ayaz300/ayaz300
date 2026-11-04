@@ -1,15 +1,23 @@
 <div align="center">
 
-# ✨ Hey there, I'm Ayaz! 👋
-### *Frontend Explorer & Python Developer | Crafting Digital Elegance with Code* 🚀
+<!-- Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=220&section=header&text=✨%20AYAZ%20ABDULLAH%20✨&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Python%20%7C%20UI%2FUX%20Enthusiast&descAlignY=62&descScale=18" width="100%" />
 
-<img src="https://komarev.com/ghpvc/?username=ayaz300&style=flat-square&color=blueviolet" alt="Visitor Count" />
-<img src="https://img.shields.io/badge/Status-Building%20The%20Future-success?style=flat-square&logo=appveyor" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-Clean%20Code%20&%20UI-informational?style=flat-square" alt="Focus" />
+  <br>
+
+  <!-- Dynamic Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=500&lines=Crafting+Digital+Elegance+with+Code;CSS3+Grid+%2B+Flexbox+Architect;Building+Modern+React+%2B+JS+Apps;Python+%2B+OOPs+Enthusiast" alt="Typing SVG" />
+  </a>
+
+  <br><br>
+
+  <!-- Profile Badges -->
+  <img src="https://komarev.com/ghpvc/?username=ayaz300&style=for-the-badge&color=8A2BE2" alt="Visitor Count" />
+  <img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-330066?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Clean%20Code%20%26%20Design-5A189A?style=for-the-badge" alt="Focus" />
 
 </div>
-
----
 
 ### 🌟 About Me
 <p align="center">
@@ -123,8 +131,8 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ayaz300&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ayaz's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaz300&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=ayaz300&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayaz300&layout=compact&theme=dracula&hide_border=true" width="48%" />
 
 </div>
 
@@ -143,10 +151,19 @@
 <a href="https://github.com/ayaz300" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://linkedin.com/in/yourusername" target="_blank">
+
+<a href="https://instagram.com/_ay.az__" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<a href="https://x.com/ayaz_abdullah_" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+
+<a href="https://linkedin.com/in/ayaz300_" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:youremail@example.com">
+<a href="mailto:ayazabdullah.org@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
